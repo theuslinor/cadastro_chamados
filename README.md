@@ -31,10 +31,6 @@ sistema_chamados/
 │
 └── README.md
 
-markdown
-Copiar
-Editar
-
 ## ⚙️ Funcionalidades
 
 - 📌 **Cadastro de Chamados**  
