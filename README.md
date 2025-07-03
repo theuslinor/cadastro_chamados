@@ -10,27 +10,6 @@ Este projeto consiste em uma aplicação web simples para **registro e gerenciam
 - **MySQL** – Banco de dados relacional
 - **XAMPP** – Ambiente de desenvolvimento local
 
-## 📁 Estrutura do Projeto
-
-sistema_chamados/
-│
-├── includes/
-│ ├── db.php # Conexão com o banco de dados
-│ ├── header.php # Cabeçalho reutilizável
-│ └── footer.php # Rodapé reutilizável
-│
-├── pages/
-│ ├── cadastrar.php # Página de cadastro de chamados
-│ └── listar.php # Página de listagem (admin)
-│
-├── css/
-│ └── style.css # Estilos personalizados
-│
-├── js/
-│ └── script.js # Scripts adicionais
-│
-└── README.md
-
 ## ⚙️ Funcionalidades
 
 - 📌 **Cadastro de Chamados**  
