@@ -30,10 +30,6 @@ Este projeto consiste em uma aplicação web simples para **registro e gerenciam
 - A interface utiliza **modais Bootstrap** para exibir a descrição completa de cada chamado.
 - A aplicação é 100% local, sendo executada por meio do `XAMPP`.
 
-## 🖼️ Captura de Tela (Exemplo)
-
-> ⚠️ Adicione aqui um print da tela inicial ou de listagem, caso deseje.
-
 ## 📝 Autor
 
 Desenvolvido por **Matheus** como parte do projeto acadêmico da disciplina de Imersão Profissional.
